@@ -18,6 +18,9 @@ I sell digital downloads and create many similar listings. This tool reduces man
 - Does **not** read or store buyer data, messages, or orders
 - Only uses my own listing content and the authorization needed to access my seller account
 
+## Who is this for 
+- This page is informational only; it does not provide setup steps for other sellers or request others to generate API keys.
+
 ## Support
 Contact: **21glassesLLC@gmail.com** (monitored)
 
