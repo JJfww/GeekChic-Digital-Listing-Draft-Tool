@@ -1,4 +1,4 @@
-# GeekChic Listing Draft Tool
+# GeekChic Digital Listing Draft Tool
 
 ## What this is
 A private, seller-only tool I run for **my own shop** to create and update **DRAFT** digital listings using the  :contentReference[oaicite:0]{index=0} Open API v3 (OAuth 2.0; listings write scope).
