@@ -1,4 +1,4 @@
-# Terms of Use — GeekChic Listing Draft Tool
+# Terms of Use — GeekChic Digital Listing Draft Tool
 
 **Last updated:** February 20, 2026
 
