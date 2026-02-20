@@ -1,4 +1,4 @@
-# Privacy Policy — GeekChic Listing Draft Tool
+# Privacy Policy — GeekChic Digital Listing Draft Tool
 
 **Last updated:** February 20, 2026
 
