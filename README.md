@@ -1,4 +1,4 @@
-# GeekChic Listing Draft Tool (Public Info)
+# GeekChic Digital Listing Draft Tool (Public Info)
 
 This repository contains only the public landing page and policies for **GeekChic Listing Draft Tool**.
 
